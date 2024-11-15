@@ -1,0 +1,1 @@
+This is the text sentence in readme file
